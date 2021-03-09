@@ -1,4 +1,4 @@
-Data Dictionary
+## Data Dictionary
 Variable Label	Variable/Readable Variable Name	Variable Type	Measurement Units	Allowed Values	Description 				
 Library	Library	string/categorical		2 letter code coresponding to a library	"Two-letter code representing a library location." ("Timberland Regional Library Circulation by Audience")				
 Year	Year	numeric			"Year items circulated" in YYYY format ("Timberland Regional Library Circulation by Audience")				
